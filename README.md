@@ -1,4 +1,4 @@
-This is just a simple coding challenge made by @0xhunter on twitter (challenge link: https://pass4exam.net/challenge/, twitter link: https://cutt.ly/km5iqSs).
+This is just a simple Web Exploit challenge made by @0xhunter on twitter (challenge link: https://pass4exam.net/challenge/, twitter link: https://cutt.ly/km5iqSs).
 
 The php code used in this challenge is set up for disabling the user from trying to login more than 10 times, however the mechanism that is used by this code is weak and can be
 skipped by the script code attached by me as "0x_web.py"
